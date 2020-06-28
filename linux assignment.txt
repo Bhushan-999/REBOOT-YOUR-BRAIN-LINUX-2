@@ -1,0 +1,12 @@
+Problem 1. block system call
+
+a. for checking run " date" command
+b. then for blocking the date command run - " alias date="date>/dev/null" 
+c. same for firefox , Run- alias Firefox="Firefox>/dev/null" 
+
+
+
+Problem 2. Play with directory
+
+a. Run -  mkdir " "
+b. Run -  mkdir -- " -okgoogle"
