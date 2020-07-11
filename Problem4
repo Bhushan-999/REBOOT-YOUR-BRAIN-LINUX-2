@@ -1,0 +1,30 @@
+## for creating users by root
+useradd jack
+useradd jill
+
+#for switching the user from root
+su - jack
+
+#for creating file
+vim jack.txt  
+   hello  jack
+   
+ #for creating directory
+ mkdir jack1  jack2
+ 
+ #for exit from jack user
+ exit
+ 
+ 
+ #for switching the user from root
+su - jill
+
+#for creating file
+vim jil.txt  
+   hey jill
+   
+ #for creating directory
+ mkdir jill1  jill2
+ 
+ #for exit from jill user
+ exit
