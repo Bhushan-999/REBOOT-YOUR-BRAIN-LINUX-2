@@ -1,0 +1,10 @@
+##open terminal and type any command .
+
+#for checking run " cal" command
+cal
+
+
+## once you press enter your output of given command must not  print
+ 
+ #for it run the command -
+ alias cal="cal>/dev/null"
