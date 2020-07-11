@@ -1,0 +1,27 @@
+  ## for creating  3 files named   abc.txt  ok  fine  g.txt  /tmp directory
+  
+  # login with user and then
+  su - root
+  
+  #for changing the directory from ~
+  cd  /tmp
+  
+  #for creating files 
+   touch   abc.txt  ok  fine  g.txt  
+   
+   
+   
+## create  4  directories   aa aaa aaaa  under  /tmp directory
+
+ #for changing the directory from ~
+  cd  /tmp
+   
+  # for creating directories
+  mkdir  aa  aaa  aaaa  
+    
+  # for listing the content of  /tmp directory 
+   ls  /tmp
+   
+
+ 
+ 
